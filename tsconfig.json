@@ -1,0 +1,11 @@
+{
+    "typeAcquisition": {
+        "enable": true
+    },
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "target": "es6"
+    }
+}

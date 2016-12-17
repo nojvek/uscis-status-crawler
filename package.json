@@ -1,0 +1,25 @@
+{
+  "name": "uscis-status-crawler",
+  "version": "0.9.0",
+  "description": "Scraps USCIS website for receipt status given a range of receipt numbers",
+  "main": "crawler.js",
+  "scripts": {
+  },
+  "keywords": [
+    "uscis",
+    "status",
+    "crawler"
+  ],
+  "author": "nojvek",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nojvek/uscis-status-crawler.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^6.0.52",
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
